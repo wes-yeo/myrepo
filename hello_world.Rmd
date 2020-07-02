@@ -1,6 +1,6 @@
 ---
 title: "Hello, World!"
-author: "Wes Yeo"
+author: "Wesley Yeo"
 date: "7/2/2020"
 output: html_document
 ---
